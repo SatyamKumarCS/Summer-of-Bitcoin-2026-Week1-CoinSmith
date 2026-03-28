@@ -1,5 +1,6 @@
 # My Approach — Coin Smith (Summer of Bitcoin 2026)
 
+
 > A detailed walkthrough of how I designed, implemented, and optimized the Coin Smith PSBT Transaction Builder.
 
 ---
